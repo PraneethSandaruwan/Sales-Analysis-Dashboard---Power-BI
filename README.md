@@ -1,7 +1,7 @@
 # Sales-Analysis-Dashboard---Power-BI
 This is sales analysis dashboard project using power bi
 
-# Findings
+# Analysis
 Sales revenue per month
 Sales per sales channel
 Sales revenue by customer segment
@@ -18,6 +18,8 @@ Count of sales
 Profit margin
 Average units
 
+# Insights and findings
+
 # Skills
 Excel
 Power BI
@@ -27,4 +29,4 @@ Creating dashboard
 Layout was designed using Microsoft Power Point
 
 # Dataset Credits
-This project uses the (https://docs.google.com/spreadsheets/d/1PJIYrn6YwAalTSMkrPxeKXwGy2bVbX3PyZ_7zqYLx-w/edit?gid=0#gid=0). We gratefully acknowledge their work.
+We acknowledge their support in sharing this data. Their support made this analysis possible.
