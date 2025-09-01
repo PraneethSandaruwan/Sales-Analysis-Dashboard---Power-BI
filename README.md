@@ -19,6 +19,10 @@ Profit margin
 Average units
 
 # Insights and findings
+In 2023, the sales target increased by 2% compared to the previous year.
+Asia recorded the highest sales revenue in 2022, while Europe held the top spot in 2023.
+In 2022, tablets were the top-selling product, but in 2023, smartphones took the lead.
+Quantity sold in 2023 decreased by 1.27% compared to 2022.
 
 # Skills
 Excel
